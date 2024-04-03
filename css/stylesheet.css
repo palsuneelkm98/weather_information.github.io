@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+ }
+ 
+ body{
+   background-color: aquamarine;
+ }
+
+ .main{
+    border:1px solid black;
+    text-align: center;
+    height:99%;
+    width:70%;
+    background-color: antiquewhite;
+ }
+ 
+ .btn{
+    padding:5px;
+    border-radius: 5px;
+    margin: 8px;
+ }
+ 
+ .btn:hover{
+   cursor: pointer;
+   background-color:chocolate;
+   color:white;
+ }
+
+ input{
+    padding: 4px;
+    border-radius: 5px;
+ }
+ h2{
+    margin:20px;
+ }
+ 
+ img{
+    border-radius: 50%;
+    margin: 20px;
+    height:100px;
+    width:100px;
+ } 
+
+ 
+ 
